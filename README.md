@@ -1,5 +1,3 @@
-# gits-login-page
-
 ## Project setup
 ```
 npm install
